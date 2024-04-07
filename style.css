@@ -54,7 +54,7 @@ section{
     height: 250px;
     padding: 10px;
     margin: 10px;
-    border:2px solid darkgreen;
+    border: 5px solid darkgreen;
 }
 
 .left{
@@ -63,7 +63,7 @@ section{
     height: 250px;
     padding: 10px;
     margin: 10px;
-    border:2px solid darkgreen;
+    border: 5px solid darkgreen;
 }
 
 .paris {
