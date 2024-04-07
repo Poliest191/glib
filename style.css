@@ -96,3 +96,17 @@ footer{
     height: 90px;
     background-color: rgb(23, 79, 23);
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    padding: 20px;
+}
+
+footer a:hover{
+    background-color: white;
+    color: darkgreen;
+    border-radius: 25%;
+    font-size: 20px;
+}
