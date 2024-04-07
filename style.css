@@ -52,9 +52,9 @@ section{
     float: right;
     width: 25%;
     height: 250px;
-    border-bottom: 2px solid darkgreen;
     padding: 10px;
     margin: 10px;
+    border:2px solid darkgreen;
 }
 
 .left{
@@ -63,6 +63,7 @@ section{
     height: 250px;
     padding: 10px;
     margin: 10px;
+    border:2px solid darkgreen;
 }
 
 .paris {
